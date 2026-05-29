@@ -3,7 +3,6 @@
 # Data-Driven Asset Allocation Strategies
 
 Open Avenues Foundation — Quantitative Finance Track  
-Mentor: Flora Li, Finance Fellow
 
 ---
 
